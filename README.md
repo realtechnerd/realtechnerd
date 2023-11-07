@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Nithil, aka realtechnerd. Currently learning Java.
+I'm Nithil.
 
 Check out my [website](https://realtechnerd.github.io), [YouTube Channel](https://www.youtube.com/channel/UCX1JggjszwHCN6JNG2zwidQ), and my [Linkedin](https://www.linkedin.com/in/nithil-krishnaraj-889b161b1/).
 
