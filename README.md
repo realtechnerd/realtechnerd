@@ -6,7 +6,7 @@ Hi there. I'm Nithil and I'm currently a Digital Forensics Engineer Intern at Ma
 
 ## 🛠️ Tech Stack
 
-### Languages
+Languages
 - Python
 - JavaScript
 - Java
@@ -15,7 +15,7 @@ Hi there. I'm Nithil and I'm currently a Digital Forensics Engineer Intern at Ma
 - Bash
 - HTML / CSS
 
-### Frameworks & Libraries
+Frameworks & Libraries
 - Next.js
 - Node.js
 - Flask
