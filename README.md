@@ -6,36 +6,35 @@ Hi there. I'm Nithil and I'm currently a Digital Forensics Engineer Intern at Ma
 
 ## 🛠️ Tech Stack
 
-Languages
-- Python
-- JavaScript
-- Java
-- C
-- R
-- Bash
-- HTML / CSS
+- **Languages**:
+  - Python
+  - JavaScript
+  - Java
+  - C
+  - R
+  - Bash
+  - HTML / CSS
 
-Frameworks & Libraries
-- Next.js
-- Node.js
-- Flask
-- TailwindCSS
-- Pandas
-- Firebase
-- OLlama
+- **Frameworks & Libraries**:
+  - Next.js
+  - Node.js
+  - Flask
+  - TailwindCSS
+  - Pandas
+  - Firebase
+  - OLlama
 
-### Tools & Platforms
-- Ghidra
-- IDA
-- JADX
-- Splunk
-- Git / GitHub
-- VSCode
-- Vim
+- **Tools & Platforms**:
+  - Ghidra
+  - IDA
+  - JADX
+  - Splunk
+  - Git / GitHub
+  - VSCode
+  - Vim
 
-### Operating Systems
-* Windows 10/11
-* Linux (Arch, Debian, Ubuntu)
-* Android
-
+- **Operating Systems**:
+  - Windows 10/11
+  - Linux (Arch, Debian, Ubuntu)
+  - Android
 ---
